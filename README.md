@@ -22,7 +22,7 @@
 
 ## Description
 
-![model_description](model_image.png)
+![model_description](heterogeneity_sw.png)
 
 ## Usage Notes
 
@@ -51,4 +51,4 @@ If you'd like to contribute, or have any suggestions for these guidelines, you c
 
 
 ## Files
-⬇️ [Download SW](https://github.com/mi2rl/DataCuration/tree/386eafa30667b9558f4d24ee702955b75d36a4fd/Syntax_missing_SW)
+⬇️ [Download SW](https://github.com/mi2rl/DataCuration/tree/386eafa30667b9558f4d24ee702955b75d36a4fd/Heterogeneity_Detection)
