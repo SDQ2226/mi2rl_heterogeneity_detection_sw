@@ -36,9 +36,16 @@
 **Step 3.** 2_Inference_Fold_Result.ipynb 를 실행하여 아래의 폴더에 쌓이는 이미지들중 dice score가 낮은 순서대로 heterogeneity를 체크한다.
 	./check_output
 
+## Summary
 
+Software was developed to evaluate misclassified data during cross-validation, assess dataset heterogeneity, and detect outliers using Conditional GANs with latent space clustering.
+## Tag(Input)
 
-## Tag 
+Image
+
+## Tag(purpose)
+
+Detection, Evaluation
 
 ## Reference
 
