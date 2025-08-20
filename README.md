@@ -43,7 +43,7 @@ Software was developed to evaluate misclassified data during cross-validation, a
 
 Image
 
-## Tag(purpose)
+## Tag(Purpose)
 
 Detection, Evaluation
 
